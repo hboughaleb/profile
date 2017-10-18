@@ -25,6 +25,7 @@ h2{
 }
 
 h3{
+  text-align: justify;
   color: #838aaa;
   font-size: 16px;
   font-weight:300;
@@ -100,7 +101,7 @@ a:hover{
 }
 
 #movies img{
-  width: 80px;
+  width: 120px;
 }
 
 #summary{
