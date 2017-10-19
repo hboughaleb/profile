@@ -1,0 +1,27 @@
+/* Your profile header CSS code here */
+.profile-header-wrapper {
+  background: #07689F;
+}
+.profile-header-container h1 {
+  color: white;
+  font-size: 28px;
+  font-weight: bold;
+  letter-spacing: -1px;
+  margin-top: 0px;
+}
+.profile-header-container h2 {
+  color: white;
+  opacity: 0.4;
+  font-size: 18px;
+  font-weight: lighter;
+  margin-bottom: 0;
+  letter-spacing: -1px;
+}
+.profile-header-infos {
+  padding: 40px 0;
+  display: flex;
+  align-items: center;
+}
+.profile-header-username {
+  padding: 20px;
+}
